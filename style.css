@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(firebrick, purple,violet, yellow, green, blue, red, salmon, darkgreen, brown, aquamarine, chocolate, cornflowerblue, silver, grey);
+}
+#start , #number_of_objects , #start{
+    font-size: 18px; text-shadow: 5px aquamarine;
+}
+.copy_right_footer{
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    background-color: chocolate;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+    margin-top: 110px;
+    box-shadow: 5px 5px 5px  rgb(31, 253, 109);
+}
